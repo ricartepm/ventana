@@ -1,0 +1,93 @@
+/*Reset*/
+*{margin:0; padding:0;}
+body{background:#FFF;}
+#box{width:1300px; margin:0 auto;}
+
+/*login*/
+#login{width:1300px; padding:3px; float:left;}
+#login span{font:12px Verdana, Geneva, sans-serif; float:right; color:#CC0001; font-weight:bold; margin:0 10px 0 0;}
+
+
+/*logo*/
+#logo{width:1300px; padding:1px; float:left;}
+#logo img{width:1300px; height:200px; }
+
+
+/*Menu*/
+#menu{width:1300px; height:70px; padding:2px; float:left;}
+#menu ul{list-style:none;  margin:0 0 0px 0; float:left; padding:2px;}
+#menu ul li{font:16px Verdana, Geneva, sans-serif;  font-weight:bold;  }
+#menu img{float:left; width:200px; margin:0 0 0 0; border:none; background:#FFF;}
+#menu .imag{float:left; width:200px; margin:0 0 0 160px; border:0; padding:0;}
+#menu .imag:hover{float:left; border:none;  }
+
+#menu .img_right{float:left; width:150px; margin:0 0 0 0; border:none; background:#FFF;}
+#menu .imag2{float:left; width:100px; margin:0 0 0 500px; border:0; padding:0;}
+#menu .imag:hover{float:left; border:none;  }
+
+#menu a{text-decoration:none; color:#CC0001; float:left;  padding:10px; float:left; margin:15px 0 15px 5px;}
+#menu a:hover{background:#CC0001; color:#FFF;}
+
+
+
+
+
+/*Central*/
+#central{width:1290px; height:30px; background:#FFF; background:#CC0001; float:left; padding:5px;}
+#central form{padding:3px;}
+#central input{margin:1px 0 0 400px; font:14px Verdana, Geneva, sans-serif; color:#666; }
+#central .btn{margin:0 0 0 5px; width:100px; font-weight:bold;}
+#central .btn:hover{color:#CC0001;}
+
+
+/*Menu lateral*/
+#menu_lateral{width:180px; padding:2px;}
+#menu_lateral h1{font:16px Verdana, Geneva, sans-serif; color:#CC0001; border-bottom:1px solid #CC0001; font-weight:bold; text-align:center;
+                 width:180px; padding:5px; float:left; margin:0;}
+#menu_lateral form{margin:20px 0 0 0 ; height:auto; float:left; border-bottom:1px solid #CC0001; width:208px;  }
+
+#menu_lateral h1{font:12px Verdana, Geneva, sans-serif; border-bottom:0; color:#0010ff;}
+
+#menu_lateral span{font:14px Verdana, Geneva, sans-serif; color:#CC0001; font-weight:bold; float:left; margin:3px;}
+
+
+#menu_lateral ul{list-style:none;  margin:0; float:left;}
+#menu_lateral ul li{font:14px Verdana, Geneva, sans-serif; float:left; font-weight:bold; } 
+#menu_lateral input{font:14px Verdana, Geneva, sans-serif; float:left;  width:190px; margin:2px 0 0 0; } 
+
+#menu_lateral .btn{width:60px; display:block; float:right; margin:5px 18px 5px 0; }
+#menu_lateral .btn:hover{color:#CC0001;}
+#menu_lateral a{text-decoration:none; color:#CC0001; float:left; border-bottom:1px solid #CC0001; width:208px; padding:5px 0;}
+#menu_lateral a:hover{background:#CC0001; color:#FFF;}
+
+
+
+/*Header*/
+#header {width:1080px; padding:1px; float:right; }
+#header h3{font:18px Verdana, Geneva, sans-serif; color:#CC0001; text-align:center; margin:10px; font-weight:bold; }
+
+#header .marg{font:14px Verdana, Geneva, Sans-serif; color:#FFF; text-align:center; margin:20px; height:25px;  }
+
+#header .solicitar{width:520px; right:300px; border:none; margin:20px 250px; background:#E6FFF5;}
+#header input{width:400px;}
+#header textarea{width:400px;}
+#header .btn{margin:0 0 0 5px; width:80px; }
+#header .btn:hover{color:#CC0001;}
+#header .btn1{margin:0 0 0 5px; width:140px; }
+#header .btn1:hover{color:#CC0001;}
+#header th{font:14px Verdana, Geneva, Sans-serif; float:right; margin:2px; font-weight:bold;}
+
+
+#header .solicitar1{width:400px; right:300px; border:none; margin:20px 350px; background:#E6FFF5;}
+#header .input{width:300px; padding:0; float:left; font:14px Verdana, Geneva, sans-serif;} 
+#header .input1{width:300px; padding:0; float:left; font:14px Verdana, Geneva, sans-serif;} 
+
+
+/**/
+/**/
+
+/**/
+
+/**/
+
+/**/

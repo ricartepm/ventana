@@ -1,0 +1,110 @@
+/*Reset*/
+*{margin:0; padding:0;}
+body{background:#FFF;}
+#box{width:1300px; margin:0 auto;}
+
+/*login*/
+#login{width:1300px; padding:3px; float:left;}
+#login span{font:12px Verdana, Geneva, sans-serif; float:right; color:#CC0001; font-weight:bold; margin:0 10px 0 0;}
+
+
+/*logo*/
+#logo{width:1300px; padding:1px; float:left;}
+#logo img{width:1300px; height:200px; }
+
+
+/*Menu*/
+#menu{width:1300px; height:70px; padding:2px; float:left;}
+#menu ul{list-style:none;  margin:0 0 0px 0; float:left; padding:2px;}
+#menu ul li{font:16px Verdana, Geneva, sans-serif;  font-weight:bold;  }
+#menu img{float:left; width:200px; margin:0 0 0 0; border:none; background:#FFF;}
+#menu .imag{float:left; width:200px; margin:0 0 0 160px; border:0; padding:0;}
+#menu .imag:hover{float:left; border:none;  }
+
+#menu .img_right{float:left; width:150px; margin:0 0 0 0; border:none; background:#FFF;}
+#menu .imag2{float:left; width:100px; margin:0 0 0 150px; border:0; padding:0;}
+#menu .imag2:hover{float:left; border:0; }
+
+#menu a{text-decoration:none; color:#CC0001; float:left;  padding:10px; float:left; margin:15px 0 15px 100px;}
+#menu a:hover{background:#CC0001; color:#FFF;}
+
+
+
+/*Central*/
+#central{width:1290px; height:30px; background:#FFF; background:#CC0001; float:left; padding:5px;}
+#central form{padding:3px;}
+#central input{margin:1px 0 0 400px; font:14px Verdana, Geneva, sans-serif; color:#666; }
+#central .btn{margin:0 0 0 5px; width:100px; }
+#central .btn:hover{color:#CC0001;}
+
+
+/*Menu lateral*/
+#menu_lateral{width:180px; padding:2px;}
+#menu_lateral h1{font:16px Verdana, Geneva, sans-serif; color:#CC0001; border-bottom:1px solid #CC0001; font-weight:bold; text-align:center;
+                 width:200px; padding:5px; float:left; margin:0;}
+#menu_lateral ul{list-style:none;  margin:0 0 0px 0; float:left; padding:2px; }
+#menu_lateral ul li{font:14px Verdana, Geneva, sans-serif; float:left; font-weight:bold; } 
+#menu_lateral a{text-decoration:none; color:#CC0001; float:left; width:195px; border-bottom:1px solid #CC0001; width:208px; padding:5px 0;}
+#menu_lateral a:hover{background:#CC0001; color:#FFF;}
+
+
+
+/*Header*/
+#header {width:1082px; padding:1px; float:left;}
+#header table{font:14px Verdana, Geneva, sans-serif; }
+#header .carregando{padding:1px; background:#9D9DFF; font:14px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+                      color:#CC0001; border:1px solid #333; text-align:center;}
+#header h3{font:18px Verdana, Geneva, sans-serif; color:#CC0001; text-align:center; margin:10px; font-weight:bold; }
+#header h4{font:18px Verdana, Geneva, sans-serif; color:#0010ff; text-align:center; margin:10px; font-weight:bold; }
+#header .res{font:14px Verdana, Geneva, sans-serif; color:#CC0001; text-align:center; margin:10px; }
+
+#header td{font:14px Verdana, Geneva, Sans-serif; text-align:center; margin:20px; height:25px;  }
+#header .marg{font:14px Verdana, Geneva, Sans-serif; color:#FFF; text-align:center; margin:20px; height:25px;  }
+
+#header a{color:#CC0001; text-decoration:none;}
+#header a:hover{color:#0010ff; }
+
+#header .solicitar{width:520px; right:300px; border:none; margin:20px 250px; background:#E6FFF5;}
+#header input{width:400px;}
+#header select{width:402px;}
+#header textarea{width:400px; }
+
+#header .btn{margin:0 0 0 5px; width:80px;}
+#header .btn:hover{color:#CC0001;}
+#header .btndis{display:disnable; margin:0 0 0 5px; width:80px;  }
+#header .btn1{margin:0 0 0 5px; width:140px; }
+#header .btn1:hover{color:#CC0001;}
+#header th{font:14px Verdana, Geneva, Sans-serif; float:right; margin:2px; font-weight:bold;}
+
+#header .solicitar1{width:400px; right:300px; border:none; margin:20px 350px; background:#E6FFF5;}
+#header .input{width:300px; float:left;} 
+
+#header .solicitar2{width:520px; right:300px; border:none; margin:20px 250px; background:#E6FFF5; }
+
+#header .gerar{width:400px; right:300px; border:none; margin:20px 250px; background:#ffd1d6;}
+
+
+
+/*computador*/
+#computador{width:550px; border:none; margin:10px 50px;}
+#computador table{font:14px Verdana, Geneva, sans-serif; width:500px; float:left; margin:10px 0 0 10px; border:1px; padding:5px;}
+#computador  h3{font:18px Verdana, Geneva, sans-serif; color:#CC0001; text-align:center;  margin:5px 0 0 25px;; font-weight:bold; }
+#computador img{float:left; width:120px; margin:10px 0 0 0; border:none; background:#FFF;}
+#computador .img_right{float:right; width:120px; margin:0 0 0 35px; border:none; background:#FFF;}
+
+#computador .top{font:14px Verdana, Geneva, sans-serif; width:350px;  margin:0 0 0 40px; border:none; }
+#computador .top td{font:14px Verdana, Geneva, Sans-serif; text-align:center; margin:15px; height:25px; background:#FFF; border:none;}
+
+
+#computador td{font:14px Verdana, Geneva, Sans-serif; text-align:center; margin:20px; height:25px; border:1px; background:#E6FFF5; padding:3px; }
+#computador strong{font:14px Verdana, Geneva, Sans-serif; color:#CC0001; font-weight:bold; }
+
+
+
+/**/
+
+/**/
+
+/**/
+
+/**/
